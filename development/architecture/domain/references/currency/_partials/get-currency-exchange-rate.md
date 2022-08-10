@@ -1,5 +1,5 @@
 `PrestaShop\PrestaShop\Core\Domain\Currency\Query\GetCurrencyExchangeRate`
-_Retrieves the exchange rate for a currency compared to the shop&#039;s default_
+_Retrieves the exchange rate for a currency compared to the shop&#8217;s default_
 
 | Query details              |    |
 | -------------------------- | -- |
