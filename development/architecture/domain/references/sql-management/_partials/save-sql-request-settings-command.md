@@ -1,5 +1,5 @@
 `PrestaShop\PrestaShop\Core\Domain\SqlManagement\Command\SaveSqlRequestSettingsCommand`
-_Class SaveSqlManagerSettingsCommand saves default file encoding settings for SqlRequest&#039;s query result export file._
+_Class SaveSqlManagerSettingsCommand saves default file encoding settings for SqlRequest&#8217;s query result export file._
 
 | Command details            |    |
 | -------------------------- | -- |
