@@ -1,5 +1,5 @@
 `PrestaShop\PrestaShop\Core\Domain\Currency\Query\GetReferenceCurrency`
-_Get reference currency data, which are data from the unicode CLDR database, thus only official currencies have one. The result is exposed with a ReferenceCurrency object, and if the currency doesn&#039;t exist a CurrencyNotFoundException is thrown._
+_Get reference currency data, which are data from the unicode CLDR database, thus only official currencies have one. The result is exposed with a ReferenceCurrency object, and if the currency doesn&#8217;t exist a CurrencyNotFoundException is thrown._
 
 | Query details              |    |
 | -------------------------- | -- |
