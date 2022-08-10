@@ -1,5 +1,5 @@
 `PrestaShop\PrestaShop\Core\Domain\Webservice\Command\AddWebserviceKeyCommand`
-_Adds new webservice key which is used to access PrestaShop&#039;s API_
+_Adds new webservice key which is used to access PrestaShop&#8217;s API_
 
 | Command details            |    |
 | -------------------------- | -- |
