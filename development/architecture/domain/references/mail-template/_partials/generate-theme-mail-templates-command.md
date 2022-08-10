@@ -1,5 +1,5 @@
 `PrestaShop\PrestaShop\Core\Domain\MailTemplate\Command\GenerateThemeMailTemplatesCommand`
-_Class GenerateThemeMailsCommand generates email theme&#039;s templates for a specific language. If folders are not overridden in the command then MailTemplateGenerator will use the default output folders (in mails folder)._
+_Class GenerateThemeMailsCommand generates email theme&#8217;s templates for a specific language. If folders are not overridden in the command then MailTemplateGenerator will use the default output folders (in mails folder)._
 
 | Command details            |    |
 | -------------------------- | -- |
