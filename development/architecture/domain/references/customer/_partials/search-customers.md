@@ -1,5 +1,5 @@
 `PrestaShop\PrestaShop\Core\Domain\Customer\Query\SearchCustomers`
-_Searchers for customers by phrases matching customer&#039;s first name, last name, email and id_
+_Searchers for customers by phrases matching customer&#8217;s first name, last name, email and id_
 
 | Query details              |    |
 | -------------------------- | -- |
